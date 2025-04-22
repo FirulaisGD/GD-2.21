@@ -8,10 +8,15 @@
   },
   "id": "firulaisgd.gd-2.21",
   "name": "GD-2.21",
-  "dependencies": {
-    "dankmeme.globed2": ">=v1.0.0"
-  },
   "version": "v1.0.0",
   "developers": ["FirulaisGD", "Lucas11"],
-  "description": ""
+  "description": "",
+  "settings": {
+    "safe-mode": {
+      "name": "Safe Mode",
+      "description": "Cuando está activado, el progreso del juego no se guardará",
+      "type": "bool",
+      "default": false
+    }
+  }
 }
