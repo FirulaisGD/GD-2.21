@@ -1,7 +1,7 @@
 # GD-2.21
 ## Añade Addons para mods como Globed, etc y lo pone como si fuera vanilla
 
-- Añadir el versus y el the map
+- Cambia Globed como si fuera "Versus".
 - Agregar el boton de set featured
 - Cambiar la parte de la estrella normal de usuario de rate stars a DEV : Set Stars
 - Speedhack

@@ -1,7 +1,7 @@
 # GD-2.21
 ## Changes some features for looking like is vanilla like:
 
-- Change "The map" and "Versus"
+- Changes "Versus" With Globed
 - Add the button for rates (like RopTop).
 - Speedhack in the pause menu.
 
