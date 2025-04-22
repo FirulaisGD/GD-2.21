@@ -12,7 +12,7 @@ project(GD-2.21 VERSION 1.0.0)
 
 add_library(${PROJECT_NAME} SHARED
     src/main.cpp
-    # Add any extra C++ source files here
+    src/safemode.cpp
 )
 
 if (NOT DEFINED ENV{GEODE_SDK})
